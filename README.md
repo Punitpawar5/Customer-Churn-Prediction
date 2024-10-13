@@ -5,6 +5,9 @@ In today's competitive banking environment, customer retention is crucial for ma
 
 ## **Objective**
 The primary objective of this project is to build a robust and accurate machine learning model to predict bank customer churn. By using historical data, the project aims to identify the main drivers of churn and generate actionable insights to minimize customer attrition.
+<p align="center">
+  <img src="https://github.com/Punitpawar5/Customer-Churn-Prediction/blob/main/customer-first.gif" alt="customer" width="200"/>
+</p>
 
 ## **Project Phases**
 
